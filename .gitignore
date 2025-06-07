@@ -1,0 +1,28 @@
+# Fichiers de dépendances
+/BackendTSN/node_modules
+/ProjetAlgoTSN/node_modules
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de base de données locaux
+/BackendTSN/tsn_database.db
+/BackendTSN/tsn_database.db-journal
+
+# Fichiers de build
+/ProjetAlgoTSN/dist
+/ProjetAlgoTSN/.DS_Store
+
+# Fichiers système
+.DS_Store
+Thumbs.db 
